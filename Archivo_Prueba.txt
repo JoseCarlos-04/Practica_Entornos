@@ -2,3 +2,5 @@ Hello World!
 
 Modificación para el conflicto.
 Modificación del archivo para GitHub Desktop.
+
+Modificación del archivo para el commit.
